@@ -6,5 +6,5 @@ if number  > 0:
     #print(f"{number:d} is positive")
 elif number == 0:
     print("{} is zero".format (number))
-else number < 0:
+else:
     print("{} is negative.format(number0)
